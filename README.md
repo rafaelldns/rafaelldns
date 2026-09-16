@@ -2,7 +2,7 @@
 
 **`Evolving Backend Developer`**
 
- Me chamo Rafael do Nascimento Silva, tenho 20 anos, estudo Ciência da Computação atualmente na Universidade Federal de Catalão(UFCat). Atualmente, sigo buscando desenvolver ainda mais minhas capacitações para me qualificar e me adaptar ao mercado de trabalho que muda constantemente!
+ Me chamo Rafael do Nascimento Silva, tenho 20 anos, estudo Ciência da Computação atualmente na Universidade Federal de Catalão(UFCat). Atualmente, sigo buscando desenvolver ainda mais minhas capacitações para me qualificar e me adaptar ao mercado de trabalho que evolui constantemente!
 
 <p align="left">
   
@@ -69,17 +69,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<img 
-    align="left"
-    alt="GitHub Stats"
-    height="200" 
-    style="paddind-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=rafaelldns&show_icons=true&theme=tokyonight&count_private=true" 
-/>
-
-<img 
     align="left"
     alt="GitHub Stats"
     height="200"
