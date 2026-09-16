@@ -68,11 +68,3 @@
 <br/>
 
 ---
-
-
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="paddind-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelldns&layout=compact&theme=tokyonight" 
-/>
